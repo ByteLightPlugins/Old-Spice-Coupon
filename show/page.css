@@ -1,5 +1,5 @@
 html {
-  background: #f5f2ee;
+  background-color: #f5f2ee;
   font-family: proxima_nova_rgregular;
 }
 
@@ -11,14 +11,16 @@ html {
 }
 
 .coupon-message {
- background-color: #b01b1d;
- padding: 20px 30px;
- color: white;
+ padding: 20px 10%;
+ color: #474747;
+ text-align: left;
+ background-color: #f5f2ee;
+ font-size: 12px;
 }
 
 .claim-btn {
  padding: 20px 0; 
-
+ background-color: #b01b1d;
 }
 
 a {
@@ -28,6 +30,4 @@ a {
  font-size: 24px;
  letter-spacing: 0.3em;
  font-family: proxima_nova_ltregular;
-
- 
 }
