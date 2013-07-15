@@ -1,3 +1,33 @@
-.old-spice-container {
+html {
+  background: #f5f2ee;
+  font-family: proxima_nova_rgregular;
+}
+
+.old-spice-content {
+  background: url('https://s3.amazonaws.com/mobile-tests/oldspice_content_small.jpg') no-repeat center;
   background-color: #f5f2ee;
+  height: 449px;
+  margin-top: 85px;
+}
+
+.coupon-message {
+ background-color: #b01b1d;
+ padding: 20px 30px;
+ color: white;
+}
+
+.claim-btn {
+ padding: 20px 0; 
+
+}
+
+a {
+ text-transform: uppercase;
+ text-decoration: none;
+ color: white;
+ font-size: 24px;
+ letter-spacing: 0.3em;
+ font-family: proxima_nova_ltregular;
+
+ 
 }
